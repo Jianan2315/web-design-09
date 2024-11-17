@@ -66,7 +66,7 @@ npm start
 
 - **Client URL**: [http://localhost:4000](http://localhost:4000)
 
-### Project Structure Overview
+### Project Structure Overview (slightly differs from exact structure)
 
 ```
 project-root/
